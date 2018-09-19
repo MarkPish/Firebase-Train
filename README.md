@@ -5,4 +5,4 @@ This website will provide up-to-date information about various trains, namely th
 You will have the ability to add additional trains which will be dynamically updated and added to the train list.
 
 
-Currently, outside of the daily date and updating clock I am not returning the data from moment as expected....back to the drawing board!
+Currently, outside of the daily date and updating clock I am not returning the data from Firebase as expected....back to the drawing board!
